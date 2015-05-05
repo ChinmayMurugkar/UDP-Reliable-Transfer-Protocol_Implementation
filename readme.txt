@@ -1,6 +1,3 @@
-Project 3: Reliable File Transfer Over UDP
-Course: CSCI 6760
-Deadline: 03/21
 Authors: Akshay Choche.
 	 Chinmay Murugkar.
 
